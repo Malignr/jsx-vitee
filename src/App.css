@@ -1,0 +1,17 @@
+.oval-table {
+    background-color:MediumAquaMarine;
+    border-collapse:collapse;
+    padding: 10px;
+    border: 15px solid darkcyan ;
+    border-radius: 5px; 
+    margin:auto
+  }
+
+  .oval-table2 {
+    background-color:Tan;
+    border-collapse:collapse;
+    padding: 10px;
+    border: 15px solid darkcyan;
+    border-radius: 5px; 
+    margin:auto
+  }
